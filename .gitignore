@@ -1,7 +1,0 @@
-# 忽略配置文件和日志
-user_config.json
-logs/
-*.log
-
-# 只保留exe和README
-
